@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&family=Concert+One&family=Lato&family=Montserrat:wght@300&family=Voltaire&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+
+    background:url("./luca-bravo-9l_326FISzk-unsplash\ \(1\).jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.main{
+
+    position:relative;
+    top:50px;
+    left:500px;
+    border:1px solid black;
+    height:600px;
+    width: 500px;
+    box-shadow: rgba(81, 79, 79, 0.25) 0px 54px 55px, rgba(71, 51, 51, 0.52) 0px -12px 30px, rgba(115, 111, 111, 0.52) 0px 4px 6px, rgba(35, 35, 35, 0.57) 0px 12px 13px, rgba(76, 75, 75, 0.59) 0px -3px 5px;
+   
+    border-radius: 5px;
+   
+    
+}
+
+.heading{
+    position: sticky;
+    display:flex;
+    justify-content: left;
+    height:10%;
+    width:100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    color:beige;
+    text-align:center;
+    
+    
+}
+
+.icont{
+    margin:16px;
+    margin-right:70px;
+    color:rgb(196, 196, 134);
+    opacity:0.6;
+    
+}
+.content{
+    height:90%;
+    width:100%;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    background-color: rgb(0, 7, 7,0.9);
+    color:#fff;
+
+}
+h1{
+
+    margin-top:0;
+    margin-left:80px;
+    padding-top:10px;
+    font-size:2.2em;
+    /* font-family: 'Annie Use Your Telescope', cursive; */
+    font-family: 'Voltaire', sans-serif;
+    opacity:0.7;
+    color:beige;
+    
+}
+
+::-webkit-scrollbar{
+    width:10px;
+
+}
+::-webkit-scrollbar-track{
+    border:5px solid rgba(0, 0, 0, 0.1);
+    box-shadow: inset 0 0 2.5px 2px rgba(0,0,0,0.0.3);
+}
+
+::-webkit-scrollbar-thumb{
+    background:linear-gradient(45deg,rgba(238, 236, 236, 0.7),rgba(194, 191, 191, 0.3));
+    border-radius: 5%;
+}
+
+.A{
+    position:sticky;
+    top:0px;
+    height:40px;
+    width:100%;
+    text-align:left;
+    background-color: rgba(52, 52, 52, 1);
+    opacity:1;
+    
+
+
+}
+h2{
+    margin:0;
+    height:100%;
+    padding-top:0px;
+    padding-left:15px;
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-size 2.6em;
+    color:rgb(255, 137, 59);
+    width:8%;
+    background-color:rgba(35, 34, 34, 0.82);
+
+}
+
+.contacts{
+    display:flex;
+    justify-content:space-between;
+
+    height:40px;
+    width:100%;
+    text-align:left;
+    background-color: rgba(47, 43, 43, 0.3);
+    opacity:0.8;
+    padding-left:5px;
+    padding-right: 5px;
+    font-family: 'Lato', sans-serif;
+    font-size:1em;
+    padding-top:5px;
+    margin-top 10px;
+    border-bottom: 1px solid black;
+    
+
+}
+.icons{
+    margin-right:15px;
+    margin-top:5px;
+    opacity:0.15;
+   
+}
+.B{
+    position:sticky;
+    top:41px;
+    height:40px;
+    width:100%;
+    text-align:left;
+    background-color: rgba(52, 52, 52, 0.9);
+   opacity: 1;
+    
+
+
+}
+
+.C{
+    position:sticky;
+    top:82px;
+    height:40px;
+    width:100%;
+    text-align:left;
+    background-color: rgba(52, 52, 52, 0.9);
+   opacity: 1;
+    
+
+
+}
+.D{
+    position:sticky;
+    top:123px;
+    height:40px;
+    width:100%;
+    text-align:left;
+    background-color: rgba(52, 52, 52, 0.9);
+   opacity: 1;
+    
+
+
+}
+
+.E{
+    position:sticky;
+    top:164px;
+    height:40px;
+    width:100%;
+    text-align:left;
+    background-color: rgba(52, 52, 52, 0.9);
+   opacity: 1;
+    
+
+
+}
+
+.F{
+    position:sticky;
+    top:205px;
+    height:40px;
+    width:100%;
+    text-align:left;
+    background-color: rgba(52, 52, 52, 0.9);
+   opacity: 1;
+    
+
+
+}
+
+.G{
+    position:sticky;
+    top:246px;
+    height:40px;
+    width:100%;
+    text-align:left;
+    background-color: rgba(52, 52, 52, 0.9);
+   opacity: 1;
+    
+
+
+}
+
+.H{
+    position:sticky;
+    top:287px;
+    height:40px;
+    width:100%;
+    text-align:left;
+    background-color: rgba(52, 52, 52, 0.9);
+   opacity: 1;
+    
+
+
+}
+
+.I{
+    position:sticky;
+    top:328px;
+    height:40px;
+    width:100%;
+    text-align:left;
+    background-color: rgba(52, 52, 52, 1);
+    opacity:1;
+    
+
+
+}
+
